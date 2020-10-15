@@ -1,6 +1,10 @@
 # alfred-worldanvil
 An Alfred4 workflow to quickly open WorldAnvil articles for viewing or editing. This workflow will only search a single world at a time. It cannot currently be used to search all your worlds at once. I may add that functionality later, but it is also likely that I will not. :)
 
+<p align="center">
+  <img width="625" height="408" src="https://github.com/vinceblake/alfred-worldanvil/blob/main/alfred-worldanvil-demo.gif">
+</p>
+
 # IMPORTANT DISCLAIMER
 This application relies on an unofficial, as-yet unsupported API. It is liable to break at any moment. More importantly, if you do not already have your very own API key, I cannot help you nor tell you how to get one. I will update this README if any of this changes, but for now, this should be considered use-at-your-own-risk. 
 
