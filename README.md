@@ -30,7 +30,9 @@ Place the `wasearch.py` file somewhere safe. Anywhere you like is fine but it'll
 
 3. Double-click the .alfredworkflow file to import it directly into Alfred4. You will be prompted with a screen that includes something like this:
 
-  ![img](https://github.com/vinceblake/alfred-worldanvil/blob/main/script_path.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/vinceblake/alfred-worldanvil/blob/main/script_path.png">
+</p>
 
 4. Double-click the field to the right of `script_path` to paste in--you guessed it--the path to your `wasearch.py` file. Mine, for example, is `/users/vince/Code/alfred-worldanvil/wasearch.py`. I recommend you avoid having spaces anywhere in that path.
 
