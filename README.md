@@ -4,7 +4,7 @@ An Alfred4 workflow to quickly open WorldAnvil articles for viewing or editing. 
 # IMPORTANT DISCLAIMER
 This application relies on an unofficial, as-yet unsupported API. It is liable to break at any moment. More importantly, if you do not already have your very own API key, I cannot help you nor tell you how to get one. I will update this README if any of this changes, but for now, this should be considered use-at-your-own-risk. 
 
-## Preparation
+# Preparation
 You can either clone this repository on your local machine using:
 
 `git clone https://github.com/vinceblake/alfred-worldanvil.git`
@@ -12,8 +12,6 @@ You can either clone this repository on your local machine using:
 Or you can download the .zip file directly and extract it. 
 
 Place the `wasearch.py` file somewhere safe. Anywhere you like is fine but it'll need to live there permanently. You'll also need to reference its location in a moment, so make sure you know where it is.
-
----
 
 # Instructions
 1. Open wasearch.py in your [text] editor of choice. 
