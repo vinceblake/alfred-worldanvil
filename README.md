@@ -18,7 +18,6 @@ Place the `wasearch.py` file somewhere safe. Anywhere you like is fine but it'll
 # Instructions
 1. Open wasearch.py in your [text] editor of choice. 
 
-
 2. Starting at line 4, there are three variables you will need to update
 
   * `world_id` refers to the ID of the world you want to search. You can retrieve this value by navigating to your world's Dashboard and checking its URL, which will look something like this: `https://www.worldanvil.com/world/XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX/summary`. That long alphanumeric string (represented by Xs in this example) is your world's ID. 
