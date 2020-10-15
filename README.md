@@ -20,9 +20,13 @@ Place the `wasearch.py` file somewhere safe. Anywhere you like is fine but it'll
 
 2. Starting at line 4, there are three variables you will need to update:
   a) `world_id` refers to the ID of the world you want to search. You can retrieve this value by navigating to your world's Dashboard and checking its URL, which will look something like this: `https://www.worldanvil.com/world/XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX/summary`. That long alphanumeric string (represented by Xs in this example) is your world's ID. 
+  
   b) While on your Dashboard, click your profile picture in the upper right to expand the menu and choose **API Keys Management**. Again, this will not appear without a Grandmaster+ subscription level.
+  
   c) Choose a nickname for this application. It can be whatever you like. Click "Create new Key."
+  
   d) You will now see a very long alphanumeric string beneath the app title that you just chose. That string is your `xAuthKey` variable, so paste it in accordingly.
+  
   e) Lastly, you will need your API key. At the moment, these are private and not freely distributed. If you don't already have one, I can't tell you how to get one. Once you have one, though, it will be your `xAppKey` variable. 
   
 3. Save your changes and, once again, note the file path where you've saved the .py file.
